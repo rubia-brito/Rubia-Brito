@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou a Bia
+# 👋 Olá! Eu sou a Rúbia
 
 Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por C# e projetos práticos 💻✨
 
