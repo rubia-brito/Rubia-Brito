@@ -37,7 +37,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por C# e projet
 - Estruturas de listas ordenadas e não ordenadas  
 - Estrutura de tabela  
 - Uso de imagens  
-- Projeto organizado em pasta com nome completo  
+
 
 ---
 
@@ -52,12 +52,10 @@ Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por C# e projet
 
 ## 📫 Contato
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/rúbia-de-souza-brito)  
+- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/r%C3%BAbia-de-souza-brito-4556b366/)  
 - Email: biaibt@hotmail.com
 
 ---
-
-## 👩‍💻 Author
 
 Developed by Bia  
 Student of Systems Analysis and Development
