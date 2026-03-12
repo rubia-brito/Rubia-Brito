@@ -13,7 +13,7 @@ Estudante de Análise e Desenvolvimento de Sistemas | Apaixonada por C# e projet
 - Foco em aprender e criar projetos de portfólio reais
 - Experiência prática com .NET, C#, Git e GitHub
 - Desenvolvimento de projetos de console e orientação a objetos
-- Aprendendo Azure e boas práticas de versionamento
+
 
 ---
 
