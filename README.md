@@ -1,75 +1,109 @@
 # 👋 Olá! Eu sou a Rúbia
 
-Estudante de Análise e Desenvolvimento de Sistemas | Focada em C#, .NET e resolução de problemas | Em transição para a área de tecnologia 💻🚀
+💻 QA Júnior | Testes de API (Postman) | SQL | Automação em evolução (Cypress)
 
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
----
-
-## 💡 Sobre mim
-
-- Foco em aprender e criar projetos de portfólio reais
-- Experiência prática com .NET, C#, Git e GitHub
-- Desenvolvimento de projetos de console e orientação a objetos
-- Interesse em atuar com suporte técnico e análise de sistemas
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Qualidade de Software (QA).  
+Tenho experiência prática com testes manuais, validação de APIs e análise de comportamento de aplicações, além de vivência com suporte técnico e resolução de problemas.
 
 ---
 
-## 🧠 Habilidades
+## 🔎 Foco de atuação
 
-- Resolução de problemas
-- Lógica de programação
-- Organização de código
-- Aprendizado contínuo
+- Testes de Software (funcional, exploratório e regressão)  
+- Testes de API com Postman  
+- Validação de dados com SQL  
+- Análise de comportamento de sistemas  
+- Automação de testes (em aprendizado com Cypress)  
 
 ---
 
-## 📂 Projetos em destaque
+## 🛠️ Tecnologias e ferramentas
 
-### 1️⃣ 🚗 Sistema de Estacionamento (C# / .NET)
-- Cadastro e saída automática de veículos  
-- Cobrança proporcional por tempo de permanência  
-- Formatação de moeda com CultureInfo (pt-BR)  
-- OOP, construtor com parâmetro, código limpo e organizado  
+- Postman  
+- SQL Server  
+- Git e GitHub  
+- C# / .NET  
+- Cypress (em aprendizado)  
 
-🔗 Ver projeto: https://github.com/rubia-brito/sistema-estacionamento-console
+---
 
-### 2️⃣ Sistema de Cardápio
-- Seleção de produtos e quantidade  
-- Cálculo automático do total do pedido  
-- Validação de entradas e mensagens organizadas  
+## 🚀 Projetos em destaque
 
-🔗 Ver projeto: https://github.com/rubia-brito/sistema-cardapio-console
+### 🔗 API REST com .NET | CRUD + SQL Server
+- Desenvolvimento e modernização de API para versão atual do .NET  
+- Integração com banco de dados SQL Server  
+- Implementação completa de CRUD  
+- Configuração do Entity Framework e migrations  
+- Testes de endpoints com Postman (validação de status codes e dados)  
 
-### 3️⃣ Site Acadêmico
-- Página inicial com título contendo **nome e RA**  
-- Links para outras páginas: **Links, Imagens, Fale Conosco**  
-- Estruturas de listas ordenadas e não ordenadas  
-- Estrutura de tabela  
-- Uso de imagens  
+👉 Projeto aplicado para testes de API e validação de comportamento da aplicação  
 
-🔗 Ver projeto: https://github.com/rubia-brito/site-faculdade
+---
+
+### 🍔 Sistema de Cardápio (C# / .NET) — Versão 2.0
+- Evolução de projeto iniciado em Portugol para C# com POO  
+- Estrutura modular com classes para itens e pedidos  
+- Adição, edição e remoção de itens do pedido  
+- Cálculo automático de valores e organização por categorias  
+
+💡 Aplicação prática:
+Simulação de fluxo de pedidos semelhante a sistemas reais de delivery  
+
+🧪 Possibilidades de testes:
+- Validação de entradas do usuário  
+- Testes de fluxo (adição, edição e remoção)  
+- Verificação de cálculos  
+
+---
+
+### 🗄️ Banco de Dados e SQL
+- Criação e manipulação de tabelas  
+- Consultas com SELECT, WHERE e JOIN  
+- Aplicação de conceitos de banco relacional  
+- Uso de SQL para validação de dados em testes de software  
+
+👉 Aplicação direta em QA para validação de dados e análise de sistemas  
+
+🔗 Ver projeto: https://github.com/rubia-brito/banco-de-dados-dio  
+
+---
+
+### 🚗 Sistema de Estacionamento (C# / .NET)
+- Controle de entrada e saída de veículos  
+- Cálculo automático de valores com base no tempo  
+- Uso de orientação a objetos e boas práticas de código  
+
+---
+
+## 📚 Aprendizados
+
+- Estruturação de APIs REST  
+- Integração com banco de dados  
+- Aplicação de Programação Orientada a Objetos  
+- Validação de dados e testes de sistemas  
+- Resolução de problemas técnicos reais  
 
 ---
 
 ## 🌱 Próximos passos
 
-- Melhorar projetos com persistência de dados  
-- Criar interface gráfica  
-- Continuar aprendendo Azure e APIs  
-- Adicionar CSS e responsividade ao site acadêmico  
+- Evoluir em automação de testes com Cypress  
+- Criar projeto completo de testes de API com Postman  
+- Aprofundar validação de dados com SQL  
+- Estudar ferramentas de QA (ex: JIRA, testes automatizados)  
 
 ---
 
 ## 📫 Contato
 
-- LinkedIn: [Seu LinkedIn](https://www.linkedin.com/in/r%C3%BAbia-de-souza-brito-4556b366/)  
-- Email: biaibt@hotmail.com
+- LinkedIn: https://www.linkedin.com/in/rúbia-de-souza-brito-4556b366  
+- Email: biaibt@hotmail.com  
 
 ---
 
+💡 Projetos voltados para desenvolvimento e validação de sistemas, com foco em qualidade de software e testes.
+
 ---
+
 Desenvolvido por Rúbia  
 Estudante de Análise e Desenvolvimento de Sistemas
