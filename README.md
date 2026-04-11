@@ -45,6 +45,8 @@ Tenho experiência prática com testes manuais, validação de APIs, análise de
 
 👉 Projeto com foco em qualidade de código, testes e validação de regras de negócio
 
+ Ver projeto: https://github.com/rubia-brito/cardapio-dotnet-tests.git
+
 ---
 
 🔗 API REST com .NET + SQL Server
@@ -56,6 +58,8 @@ Tenho experiência prática com testes manuais, validação de APIs, análise de
 
 👉 Aplicação prática de testes de API e validação de dados
 
+ Ver projeto: https://github.com/rubia-brito/api-dotnet-sql.git
+
 ---
 
 🗄️ Banco de Dados e SQL
@@ -66,6 +70,8 @@ Tenho experiência prática com testes manuais, validação de APIs, análise de
 
 👉 Utilizado para validação de dados em cenários de teste
 
+ Ver projeto: https://github.com/rubia-brito/banco-dados-sql.git
+
 ---
 
 🚗 Sistema de Estacionamento (C# / .NET)
@@ -73,6 +79,8 @@ Tenho experiência prática com testes manuais, validação de APIs, análise de
 - Controle de entrada e saída de veículos
 - Cálculo automático de valores com base no tempo
 - Aplicação de lógica de negócio
+
+ Ver projeto: https://github.com/rubia-brito/sistema-estacionamento-console.git
 
 ---
 
