@@ -1,109 +1,110 @@
-# 👋 Olá! Eu sou a Rúbia
+👋 Olá! Eu sou a Rúbia
 
-💻 QA Júnior | Testes de API (Postman) | SQL | Automação em evolução (Cypress)
+💻 QA Júnior | Testes de Software | API | SQL | Automação em evolução
 
-Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Qualidade de Software (QA).  
-Tenho experiência prática com testes manuais, validação de APIs e análise de comportamento de aplicações, além de vivência com suporte técnico e resolução de problemas.
-
----
-
-## 🔎 Foco de atuação
-
-- Testes de Software (funcional, exploratório e regressão)  
-- Testes de API com Postman  
-- Validação de dados com SQL  
-- Análise de comportamento de sistemas  
-- Automação de testes (em aprendizado com Cypress)  
+Sou estudante de Análise e Desenvolvimento de Sistemas com foco em Qualidade de Software (QA).
+Tenho experiência prática com testes manuais, validação de APIs, análise de comportamento de sistemas e validação de dados com SQL.
 
 ---
 
-## 🛠️ Tecnologias e ferramentas
+🔎 Foco de atuação
 
-- Postman  
-- SQL Server  
-- Git e GitHub  
-- C# / .NET  
-- Cypress (em aprendizado)  
-
----
-
-## 🚀 Projetos em destaque
-
-### 🔗 API REST com .NET | CRUD + SQL Server
-- Desenvolvimento e modernização de API para versão atual do .NET  
-- Integração com banco de dados SQL Server  
-- Implementação completa de CRUD  
-- Configuração do Entity Framework e migrations  
-- Testes de endpoints com Postman (validação de status codes e dados)  
-
-👉 Projeto aplicado para testes de API e validação de comportamento da aplicação  
+- Testes de Software (funcional, exploratório e regressão)
+- Testes de API (Postman)
+- Validação de dados com SQL
+- Análise de comportamento de sistemas
+- Automação de testes (em evolução com Cypress)
 
 ---
 
-### 🍔 Sistema de Cardápio (C# / .NET) — Versão 2.0
-- Evolução de projeto iniciado em Portugol para C# com POO  
-- Estrutura modular com classes para itens e pedidos  
-- Adição, edição e remoção de itens do pedido  
-- Cálculo automático de valores e organização por categorias  
+🛠️ Tecnologias e ferramentas
 
-💡 Aplicação prática:
-Simulação de fluxo de pedidos semelhante a sistemas reais de delivery  
-
-🧪 Possibilidades de testes:
-- Validação de entradas do usuário  
-- Testes de fluxo (adição, edição e remoção)  
-- Verificação de cálculos  
+- Postman
+- SQL Server
+- Git e GitHub
+- C# / .NET
+- xUnit (testes unitários)
+- Cypress (em aprendizado)
 
 ---
 
-### 🗄️ Banco de Dados e SQL
-- Criação e manipulação de tabelas  
-- Consultas com SELECT, WHERE e JOIN  
-- Aplicação de conceitos de banco relacional  
-- Uso de SQL para validação de dados em testes de software  
+🚀 Projetos em destaque
 
-👉 Aplicação direta em QA para validação de dados e análise de sistemas  
+🍔 Sistema de Cardápio com Testes Unitários (C# / .NET)
 
-🔗 Ver projeto: https://github.com/rubia-brito/banco-de-dados-dio  
+- Aplicação de pedidos utilizando Programação Orientada a Objetos
+- Estrutura com separação de responsabilidades (Models e lógica de negócio)
+- Implementação de testes unitários com xUnit
+- Validação das regras de negócio através de testes
 
----
+🧪 Testes aplicados:
 
-### 🚗 Sistema de Estacionamento (C# / .NET)
-- Controle de entrada e saída de veículos  
-- Cálculo automático de valores com base no tempo  
-- Uso de orientação a objetos e boas práticas de código  
+- Cálculo do total do pedido
+- Subtotal dos itens
+- Comportamento da aplicação em diferentes cenários
 
----
-
-## 📚 Aprendizados
-
-- Estruturação de APIs REST  
-- Integração com banco de dados  
-- Aplicação de Programação Orientada a Objetos  
-- Validação de dados e testes de sistemas  
-- Resolução de problemas técnicos reais  
+👉 Projeto com foco em qualidade de código, testes e validação de regras de negócio
 
 ---
 
-## 🌱 Próximos passos
+🔗 API REST com .NET + SQL Server
 
-- Evoluir em automação de testes com Cypress  
-- Criar projeto completo de testes de API com Postman  
-- Aprofundar validação de dados com SQL  
-- Estudar ferramentas de QA (ex: JIRA, testes automatizados)  
+- Desenvolvimento de API com CRUD completo
+- Integração com banco de dados SQL Server
+- Uso de Entity Framework e migrations
+- Testes de endpoints com Postman
 
----
-
-## 📫 Contato
-
-- LinkedIn: https://www.linkedin.com/in/rúbia-de-souza-brito-4556b366  
-- Email: biaibt@hotmail.com  
+👉 Aplicação prática de testes de API e validação de dados
 
 ---
 
-💡 Projetos voltados para desenvolvimento e validação de sistemas, com foco em qualidade de software e testes.
+🗄️ Banco de Dados e SQL
+
+- Criação e manipulação de tabelas
+- Consultas com SELECT, WHERE e JOIN
+- Aplicação de conceitos de banco de dados relacional
+
+👉 Utilizado para validação de dados em cenários de teste
 
 ---
 
-Desenvolvido por Rúbia  
+🚗 Sistema de Estacionamento (C# / .NET)
+
+- Controle de entrada e saída de veículos
+- Cálculo automático de valores com base no tempo
+- Aplicação de lógica de negócio
+
+---
+
+📚 Aprendizados
+
+- Testes unitários com xUnit
+- Estruturação de projetos .NET
+- Integração com banco de dados
+- Validação de dados e testes de sistemas
+- Organização de código e boas práticas
+
+---
+
+🌱 Próximos passos
+
+- Evoluir em automação de testes com Cypress
+- Criar projeto completo de testes de API
+- Aprofundar validação de dados com SQL
+- Estudar ferramentas utilizadas no mercado (JIRA, automação de testes)
+
+---
+
+📫 Contato
+
+- LinkedIn: https://www.linkedin.com/in/rubia-brito-dev
+- Email: biaibt@hotmail.com
+
+---
+
+💡 Foco em qualidade de software, testes e melhoria contínua.
+
+---
+
+Desenvolvido por Rúbia
 Estudante de Análise e Desenvolvimento de Sistemas
